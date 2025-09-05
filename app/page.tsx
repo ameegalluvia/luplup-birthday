@@ -85,7 +85,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="relative flex flex-col items-center justify-center min-h-screen">
+      <div className="relative flex flex-col items-center justify-center min-h-screen text-white">
         <SplitText
           text="Pesan dari Paizz"
           className="text-4xl font-semibold text-center text"
@@ -144,7 +144,7 @@ export default function Home() {
       </div>
 
       <div className="mt-20">
-        <div className="relative flex flex-col items-center justify-center">
+        <div className="relative flex flex-col items-center justify-center text-white">
           <SplitText
             text="Galerikuu <3"
             className="text-4xl font-semibold text-center text"
